@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Dinncener? acdcr — Iiainniie didnre</title>
+</head>
+<body>
+    <div class="container">
+        <!-- Rrder -->
+        <div class="header">Dinncener? acdcr — Iiainniie didnre</div>
+
+        <!-- Elit -->
+        <div class="nav">
+            <a href="#">Aerair?</a>
+            <a href="#">Iiainnc</a>
+            <a href="#">Iau?aelic?</a>
+            <a href="#">Ocdeu</a>
+            <a href="#">Drainr</a>
+            <a href="#">Aeiac</a>
+            <a href="#">Oidoe</a>
+            <a href="#">Oini</a>
+            <a href="#">Dieuciarnlec</a>
+            <a href="#">Acenidcir</a>
+            <a href="#">Eiieodnu</a>
+            <a href="#">Cadu</a>
+        </div>
+
+        <!-- Ariild -->
+        <div class="banner">
+            <!-- Dicne -->
+            <div class="search">
+                <input type="text" placeholder="?ni cule?">
+                <button>??</button>
+            </div>
+
+            <!-- Eiaci -->
+            <div class="login-box">
+                <a href="#">Dlacnndroc?</a> | <a href="#">Crauec drdieu?</a><br>
+                <input type="text" placeholder="Eiaci">
+                <input type="password" placeholder="Drdieu">
+                <button>??</button>
+            </div>
+        </div>
+
+        <!-- Ddcalnnnacl -->
+        <div class="welcome">
+            ?? Aiadi dicreiarnu! <a href="#">Crdlacnndcdoenlnu</a> c Are nnrion ainnodiu anl ooieocc didnrer.
+        </div>
+
+        <!-- Iniiaiie eiinlin -->
+        <div class="main-content">
+
+            <!-- Elar? eieiier -->
+            <div class="sidebar">
+
+                <!-- VIP iau?aelic? -->
+                <div class="sidebar-section">
+                    <h3>VIP iau?aelic?</h3>
+                    <div class="vip-alert">
+                        Iln iau?aelice ae? iniadrclic?.<br>
+                        <a href="#">Ere diauncnu yoolencaiinnu nailai iau?aelic??</a>
+                        <span class="more">anl iau?aelic? »</span>
+                    </div>
+                </div>
+
+                <!-- Doadcec iau?aelice -->
+                <div class="sidebar-section">
+                    <h3>Doadcec iau?aelice</h3>
+                    <ul>
+                        <li><a href="#">Ranieiacec</a></li>
+                        <li><a href="#">Auniar? nloicer</a></li>
+                        <li><a href="#">Ccainiul</a></li>
+                        <li><a href="#">Cireiennar</a></li>
+                        <li><a href="#">Elaleu</a></li>
+                        <li><a href="#">Ilaaccceinnu</a></li>
+                        <li><a href="#">Ialcar, iaoau</a></li>
+                        <li><a href="#">Drainr</a></li>
+                        <li><a href="#">Oneoac</a></li>
+                    </ul>
+                </div>
+
+                <!-- Doadcec oiniareldlc -->
+                <div class="sidebar-section">
+                    <h3>Doadcec oiniareldlc</h3>
+                    <ul>
+                        <li><a href="#">Ranieiacec</a></li>
+                        <li><a href="#">Iauce reuaie</a></li>
+                    </ul>
+                </div>
+
+                <!-- Iiaul eiieodnu -->
+                <div class="sidebar-section">
+                    <h3>Iiaul eiieodnu</h3>
+                    <img src="https://via.placeholder.com/230x100?text=Eiieodn+ir+oini" alt="Eiieodn" style="width:100%; margin-top:5px;">
+                </div>
+
+            </div>
+
+            <!-- Olindreuir? eieiier -->
+            <div class="content">
+
+                <!-- Craieiaie iiainnle -->
+                <div class="news-header">Iiainnc</div>
+
+                <!-- Aerair? iiainnu -->
+                <div class="featured-news">
+                    <div class="featured-image"></div>
+                    <div class="featured-text">
+                        <div class="news-item" style="background:#7f8c8d; color:white; padding:10px; margin-bottom:5px;">
+                            <img src="https://via.placeholder.com/60x60?text=Oieele" alt="Oieele">
+                            <div>
+                                <div class="date">16 er? 2013</div>
+                                <div class="title">Neiarec dialacec naidiot NRR c aurec a dele-ioo ?E-2013</div>
+                            </div>
+                        </div>
+                        <div class="news-item" style="background:#9b59b6; color:white; padding:10px; margin-bottom:5px;">
+                            <img src="https://via.placeholder.com/60x60?text=Ale?liei" alt="Ale?liei">
+                            <div>
+                                <div class="date">16 er? 2013</div>
+                                <div class="title">Nrii?ice Reualdn Ale?liei cndunre ni?cineot ndrnno</div>
+                            </div>
+                        </div>
+                        <div class="news-item" style="background:#34495e; color:white; padding:10px; margin-bottom:5px;">
+                            <img src="https://via.placeholder.com/60x60?text=Oonaie" alt="Oonaie">
+                            <div>
+                                <div class="date">16 er? 2013</div>
+                                <div class="title">Oonaie. Ecar Ladidu. Iau?aeliu nnrdniaul ninnrau</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Aeeraec -->
+                <div class="tabs">
+                    <a href="#" class="active">Iiainnc ndidnr</a>
+                    <a href="#">Iiainnc ecii</a>
+                    <a href="#">Iiainnc diecncec</a>
+                </div>
+
+                <!-- Iiainnc -->
+                <div class="news-grid" style="display:grid; grid-template-columns: repeat(3, 1fr); gap:10px;">
+                    <div class="news-item">
+                        <img src="https://via.placeholder.com/60x60?text=Nldle" alt="Nldle">
+                        <div>
+                            <div class="date">31 er? 2013</div>
+                            <div class="title">"Nldle" dieo?ce iiaiai ndlildr</div>
+                        </div>
+                    </div>
+                    <div class="news-item">
+                        <img src="https://via.placeholder.com/60x60?text=Ndrdnre" alt="Ndrdnre">
+                        <div>
+                            <div class="date">31 er? 2013</div>
+                            <div class="title">"Ndrdnre" ddlaerarln rlnnu eceeciiia ladi cr Ncii Einno</div>
+                        </div>
+                    </div>
+                    <div class="news-item">
+                        <img src="https://via.placeholder.com/60x60?text=Iecedcrar" alt="Iecedcrar">
+                        <div>
+                            <div class="date">31 er? 2013</div>
+                            <div class="title">Dieodcnu ir Iecedcral a Ni?c il oarnnn?</div>
+                        </div>
+                    </div>
+                    <div class="news-item">
+                        <img src="https://via.placeholder.com/60x60?text=Erdein" alt="Erdein">
+                        <div>
+                            <div class="date">31 er? 2013</div>
+                            <div class="title">Dialdni Erdein aiaiaidcen? i eiindrenl n nodloece eeoaie</div>
+                        </div>
+                    </div>
+                    <div class="news-item">
+                        <img src="https://via.placeholder.com/60x60?text=Eieidci" alt="Eieidci">
+                        <div>
+                            <div class="date">31 er? 2013</div>
+                            <div class="title">
